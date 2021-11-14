@@ -14,7 +14,7 @@ https://geoportal.statistics.gov.uk/
 Folders:
 
 Codes
-Data 
+Data - Data Files too large. Unable to upload. Kindly run the codes to transform the required data.
 Metadata 
 Dashboard
 
