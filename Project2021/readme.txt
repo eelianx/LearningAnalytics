@@ -22,6 +22,6 @@ Dashboard
 
 Dashboard Links:
 
-TBD
+https://app.powerbi.com/groups/me/reports/c94a5f89-4694-4385-b927-5538b89f136a?ctid=a63bb1a9-48c2-448b-8693-3317b00ca7fb&pbi_source=linkShare
 
 ##############
