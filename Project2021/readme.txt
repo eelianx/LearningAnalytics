@@ -22,6 +22,14 @@ Dashboard
 
 Dashboard Links:
 
-https://app.powerbi.com/groups/me/reports/c94a5f89-4694-4385-b927-5538b89f136a?ctid=a63bb1a9-48c2-448b-8693-3317b00ca7fb&pbi_source=linkShare
+1.	Codes that are made available in Github: 
+https://github.com/eelianx/LearningAnalytics/tree/main/Project2021
+
+2.	Deployed Meso Exploratory Dashboard visible for Universiti Malaya users:
+https://app.powerbi.com/groups/me/reports/86e72920-08d3-4955-9e9a-3c04c4130dce
+
+3.	Deployed Micro Course-Specific Dashboard visible for Universiti Malaya users:
+https://app.powerbi.com/groups/me/reports/cde1a912-0e2f-4d62-b418-952c9bafb4ba
+
 
 ##############
