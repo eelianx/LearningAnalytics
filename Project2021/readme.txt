@@ -11,12 +11,13 @@ https://geoportal.statistics.gov.uk/
 
 ##############
 
-Folders:
-
+Available Folders:
 Codes
-Data - Data Files too large. Unable to upload. Kindly run the codes to transform the required data.
 Metadata 
-Dashboard
+
+Unavailable Folders:
+Data (Data Files too large. Unable to upload. Kindly run the codes to transform the required data.)
+Dashboard (published in the university power bi repo)
 
 ##############
 
